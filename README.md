@@ -13,3 +13,4 @@ In this project, I developed a Python script that focuses on integrating a publi
 
 OUTPUT:
 
+<img width="1366" height="655" alt="Image" src="https://github.com/user-attachments/assets/07a74559-6483-435d-815c-9fcbe6c062ef" />
