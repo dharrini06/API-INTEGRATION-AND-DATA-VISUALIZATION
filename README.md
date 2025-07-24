@@ -1,10 +1,15 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
 
 COMPANY: Codtech IT Solutions
+
 NAME: Dharrini Selvi R
+
 INTERN ID: CT04DG2856
+
 DOMAIN: Python Programming
+
 DURATION: 4 Weeks
+
 MENTOR: Neela Santosh
 
 DESCRIPTION:
